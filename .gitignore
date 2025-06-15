@@ -1,0 +1,44 @@
+# VSCode history files
+.history/
+
+# Node modules
+node_modules/
+
+# Expo caches
+.expo/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Build artifacts
+build/
+dist/
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/app/.cxx/
+android/gradle-app-example/
+android/.idea/
+android/captures/
+android/sdks/
+android/local.properties
+android/gradle-wrapper/gradle-wrapper.jar
+android/.settings.gradle
+android/bin/
+android/gen/
+android/.project
+android/.classpath
+
+# iOS specific
+ios/build/
+ios/DerivedData/
+ios/*.xcworkspace
+ios/*.xcuserstate
+ios/*.xcscheme
+ios/.xccheckout
+ios/Pods/
+ios/RCT3DView.xcodeproj/project.xcworkspace/
+ios/Pods.xcodeproj/
+ios/Frameworks/
